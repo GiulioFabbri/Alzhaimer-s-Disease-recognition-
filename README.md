@@ -6,3 +6,5 @@ I structured it as a **3-part tutorial** for those who would like to replicate i
 1. Using **two balance approach**: Sick vs nonSick and Data augmentation (SMOOTE)
 2. Testing various **CNN models** (ex. ResNet,VGG16, MobileNet...)
 3. **GradCAM interpretation** to show doctors which parts of the brain are most interesting in determining the presence of the disease 
+
+![image](https://github.com/GiulioFabbri/Alzhaimer-s-Disease-recognition-/assets/123792184/6d0298f6-6f26-4586-9282-581a9277ea74)
